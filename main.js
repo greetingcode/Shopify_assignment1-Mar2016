@@ -6,7 +6,7 @@
       2. reflects the recent updated features of Javascript(ES6). 
       
   Minseok Kim
-  minkim00341@gmail.com
+  minkim4568@gmail.com
   
   Algonquin College - Mobile Application Design and Development
 */
